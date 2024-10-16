@@ -1,0 +1,11 @@
+#timer-label {
+    border: 5px solid gray;
+    width: 250px;
+    margin: auto;
+    border-radius: 25px;
+}
+
+#time-left {
+    font-size: 3em;
+}
+
